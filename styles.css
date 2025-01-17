@@ -1,4 +1,4 @@
-/* Genel Stiller */
+
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
@@ -8,7 +8,7 @@ body {
     background: linear-gradient(to bottom right, #cfeff9, #e6f7e5); /* Doğayı temsil eden mavi ve yeşil tonları */
 }
 
-/* Başlık (Header) */
+
 header {
     text-align: center;
     padding: 2rem;
@@ -27,7 +27,7 @@ header p {
     margin: 0;
 }
 
-/* Navigasyon Menüsü */
+
 nav ul {
     display: flex;
     justify-content: center;
@@ -52,7 +52,7 @@ nav ul li a:hover {
     color: #cfeff9; /* Açık mavi hover efekti */
 }
 
-/* Bölüm (Section) */
+
 section {
     padding: 2rem 1rem;
     margin: 2rem auto;
@@ -77,7 +77,7 @@ section p {
     text-align: justify
 }
 
-/* Düğmeler (Buttons) */
+
 button {
     background: #64b6ac;
     color: #ffffff;
@@ -93,7 +93,7 @@ button:hover {
     background: #37718e;
 }
 
-/* Altbilgi (Footer) */
+
 footer {
     text-align: center;
     padding: 1.5rem 0;
@@ -111,7 +111,7 @@ footer a:hover {
     color: #ffffff;
 }
 
-/* Kart Stili (Projeler veya Bilgilendirme) */
+
 .card {
     background: #f1f8f6;
     padding: 1.5rem;
