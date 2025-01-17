@@ -5,14 +5,14 @@ body {
     padding: 0;
     line-height: 1.6;
     color: #333;
-    background: linear-gradient(to bottom right, #cfeff9, #e6f7e5); /* Doğayı temsil eden mavi ve yeşil tonları */
+    background: linear-gradient(to bottom right, #cfeff9, #e6f7e5); 
 }
 
 
 header {
     text-align: center;
     padding: 2rem;
-    background: #64b6ac; /* Pastel yeşil tonları */
+    background: #64b6ac; 
     color: #ffffff;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
@@ -34,7 +34,7 @@ nav ul {
     list-style: none;
     padding: 1rem 0;
     margin: 0;
-    background: #37718e; /* Derin mavi */
+    background: #37718e; 
 }
 
 nav ul li {
@@ -49,7 +49,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #cfeff9; /* Açık mavi hover efekti */
+    color: #cfeff9; 
 }
 
 
